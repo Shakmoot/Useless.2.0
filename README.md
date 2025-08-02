@@ -56,13 +56,15 @@ RAM Gobbler unlocks only after all other apps are opened.
 BSOD Popup is a hidden prank that randomly triggers after launch.
 
 # Screenshots (Add at least 3)
-![Weather app](https://drive.google.com/file/d/185aRVzUqi00fQMuM6l0lzMNIixyPfckF/view?usp=sharing))
+<img width="998" height="775" alt="weather (1)" src="https://github.com/user-attachments/assets/022242ce-4439-413d-b0c4-b42c90798366" />
+
 *this shows a subapp which predicts weather*
 
-![Launcher](https://drive.google.com/file/d/15R6bRQCdAK0p5SB6Lm2IpFkNJT7-Bi_m/view?usp=drive_link)
+<img width="1918" height="1078" alt="Launcher (1)" src="https://github.com/user-attachments/assets/9a443610-849d-4376-9753-15e8cb4fe819" />
 *This is main launcher to open the subapps*
 
-![Procrastinator](https://drive.google.com/file/d/14yIkEAQE8n2GNTwCggHG4XZ4mRj0bTWn/view?usp=drive_link)
+<img width="1918" height="1078" alt="Procrastinator app" src="https://github.com/user-attachments/assets/702fb810-88f2-42e8-961d-e8af2f36a559" />
+
 *A subapp to promote procrastination*
 
 ### Project Demo
