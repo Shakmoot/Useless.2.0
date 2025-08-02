@@ -62,7 +62,7 @@ BSOD Popup is a hidden prank that randomly triggers after launch.
 ![Launcher](https://drive.google.com/file/d/15R6bRQCdAK0p5SB6Lm2IpFkNJT7-Bi_m/view?usp=drive_link)
 *This is main launcher to open the subapps*
 
-![Procrastinator]https://drive.google.com/file/d/14yIkEAQE8n2GNTwCggHG4XZ4mRj0bTWn/view?usp=drive_link
+![Procrastinator](https://drive.google.com/file/d/14yIkEAQE8n2GNTwCggHG4XZ4mRj0bTWn/view?usp=drive_link)
 *A subapp to promote procrastination*
 
 ### Project Demo
@@ -73,7 +73,7 @@ BSOD Popup is a hidden prank that randomly triggers after launch.
 
 ## Team Contributions
 - [Ameena Sulfikar]: [Project Idea and plan of execution]
-- [Shahrukh Dawood]: [Coding]
+- [Shahrukh Dawood]: [Coding and development]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
