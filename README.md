@@ -56,50 +56,24 @@ RAM Gobbler unlocks only after all other apps are opened.
 BSOD Popup is a hidden prank that randomly triggers after launch.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Weather app](https://drive.google.com/file/d/185aRVzUqi00fQMuM6l0lzMNIixyPfckF/view?usp=sharing))
+*this shows a subapp which predicts weather*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Launcher](https://drive.google.com/file/d/15R6bRQCdAK0p5SB6Lm2IpFkNJT7-Bi_m/view?usp=drive_link)
+*This is main launcher to open the subapps*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![Procrastinator]https://drive.google.com/file/d/14yIkEAQE8n2GNTwCggHG4XZ4mRj0bTWn/view?usp=drive_link
+*A subapp to promote procrastination*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/1-vkLNTrAVH4XCJ5g4bntyCTSvr1MPmzq/view?usp=drive_link]
+*The entire app working with all the included subapps*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Ameena Sulfikar]: [Project Idea and plan of execution]
+- [Shahrukh Dawood]: [Coding]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
